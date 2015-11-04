@@ -34,6 +34,8 @@ Management Server Requirements
 
 ## 配置(UI)
 
+安装XenServer的过程。
+
 
 ### 获取API Key
 
