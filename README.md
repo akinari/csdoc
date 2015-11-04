@@ -1,4 +1,4 @@
-# csdoc
+﻿# csdoc
 Documents about Installation &amp; Management of CS.
 
 ## 安装
@@ -38,6 +38,10 @@ Management Server Requirements
 
 
 ### 获取API Key
+
+1. login
+2. move to /path/to/account/manage
+
 
 ### 设置**site**变量 
 
