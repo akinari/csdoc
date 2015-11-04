@@ -29,6 +29,7 @@ Management Server Requirements
 ---
 ![pic2][2]
 ---
+![](https://raw.github.com/akinari/csdoc/master/screenshots/ss1.png "新加的图片连接。")
 
 
 ## 配置(UI)
